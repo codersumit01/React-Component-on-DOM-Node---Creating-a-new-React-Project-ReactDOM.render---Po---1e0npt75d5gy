@@ -3,8 +3,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-
-
+function App() {
+    return (
+       
+    )
+}
 ReactDOM.render(<p>Hello</p>, document.getElementById('root'));
                 
-                export default App;
+  export default App;
